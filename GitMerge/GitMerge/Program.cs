@@ -14,5 +14,6 @@ namespace GitMerge
         }
 
         int branch1 = 1;
+        int branch1a = 1;
     }
 }
