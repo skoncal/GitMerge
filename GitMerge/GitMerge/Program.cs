@@ -12,5 +12,8 @@ namespace GitMerge
         static void Main(string[] args)
         {
         }
+
+        int branch1 = 1;
+        int branch1a = 1;
     }
 }
