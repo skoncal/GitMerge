@@ -8,6 +8,7 @@ namespace GitMerge
 {
     class Program
     {
+        private int branch2 = 1;
         static void Main(string[] args)
         {
         }
